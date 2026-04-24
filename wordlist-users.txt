@@ -1,0 +1,10 @@
+admin
+administrator
+root
+user
+guest
+msfadmin
+support
+temp
+webmaster
+operator
